@@ -167,7 +167,6 @@ export const RegisterTeamDialog = (props: RegisterTeamDialogProps) => {
             >
               Add
             </Button>
-            <Button onClick={() => console.log(countryOptions)} />
           </DialogFooter>
         </DialogContent>
       </DialogRoot>
